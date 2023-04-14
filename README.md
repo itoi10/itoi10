@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Qiita https://qiita.com/itoi10
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itoi10&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
